@@ -163,10 +163,10 @@ a:hover {
 }
 @media screen and (max-width: 789px) {
   .envelope {
-    width: 380px;
+    width: 375px;
   }
   .letter {
-    width: 380px;
+    width: 100%;
   }
 }
 .flap {
@@ -278,6 +278,11 @@ button:hover {
   font-family: "Pacifico", serif;
   font-style: normal;
   text-decoration: none;
+}
+@media screen and (max-width: 789px) {
+  .button-letter a {
+    padding: auto;
+  }
 }
 
 .button-letter a:hover {
