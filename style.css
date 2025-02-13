@@ -163,7 +163,7 @@ a:hover {
 }
 @media screen and (max-width: 789px) {
   .envelope {
-    width: 400px;
+    width: 380px;
   }
 }
 .flap {
