@@ -165,6 +165,9 @@ a:hover {
   .envelope {
     width: 380px;
   }
+  .letter {
+    width: 380px;
+  }
 }
 .flap {
   position: absolute;
